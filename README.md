@@ -110,6 +110,5 @@ sudo rm /usr/local/bin/omnisearch  # adjust path if different
 - [libxml2](https://gitlab.gnome.org/GNOME/libxml2) — XML parsing
 - [libcurl](https://curl.se/libcurl/) — HTTP requests
 
-## License
+<img width="1714" height="913" alt="image" src="https://github.com/user-attachments/assets/e71aafcc-0463-41ad-a630-2a5bd33c43a3" />
 
-Check the [OmniSearch repo](https://github.com/Debronejacobs/Omnisearch) for license details before forking or redistributing.

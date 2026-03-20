@@ -1,6 +1,6 @@
 # OmniSearch Installer
 
-A bash installer for [OmniSearch](https://github.com/Debronejacobs/Omnisearch) — a self-hosted meta search engine written in C, with a clean dark UI and knowledge panel.
+A bash installer for [OmniSearch](https://git.bwaaa.monster/omnisearch) — a self-hosted meta search engine written in C, with a clean dark UI and knowledge panel.
 
 ## Requirements
 
